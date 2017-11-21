@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import MonthYearDatePicker
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var firstTextField: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        firstTextField.inputView = MonthYearDatePicker()
+
     }
 
     override func didReceiveMemoryWarning() {

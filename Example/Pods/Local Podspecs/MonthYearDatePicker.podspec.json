@@ -1,0 +1,22 @@
+{
+  "name": "MonthYearDatePicker",
+  "version": "0.1.0",
+  "summary": "A short description of MonthYearDatePicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/benjdum59/MonthYearDatePicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "benjdum59": "benjamin.dumont.pro@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/benjdum59/MonthYearDatePicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MonthYearDatePicker/Classes/**/*"
+}
